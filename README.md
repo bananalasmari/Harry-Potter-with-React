@@ -47,7 +47,7 @@ const houses = [{
     element: "fire",
     notableCharacter: {
         charName: "Harry Potter",
-        imgSrc: "https://bigkidatheart.com/wp-content/uploads/2017/06/harry-potter-with-glasses-200x200.png",
+        imgSrc: "https://www.unilad.co.uk/wp-content/uploads/2018/10/Harry-Potter-wand.jpg",
     }
 },
 ]
