@@ -24,7 +24,7 @@ const houses = [{
 },
 {
     houseName: "Ravenclaw",
-    imgSrc: "https://vignette.wikia.nocookie.net/harrypotter/images/4/4e/RavenclawCrest.png/revision/latest/scale-to-width-down/350?cb=20161020182442",
+    imgSrc: "https://i.pinimg.com/originals/c9/c2/fb/c9c2fbc62648340d3cbf206c4b159d17.jpg",
     founder: "Rowena Ravenclaw",
     element: "air",
     notableCharacter: {
